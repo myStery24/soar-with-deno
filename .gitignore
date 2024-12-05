@@ -1,0 +1,34 @@
+# Environment variables
+.env
+
+# SQLite database files
+*.db
+
+# Deno lockfile
+deno.lock
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated cookie files
+*.cookie
+
+# Node editor/project files (if any)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
